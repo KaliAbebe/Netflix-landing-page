@@ -1,0 +1,22 @@
+{
+  "name": "netflix_landing",
+  "version": "1.0.0",
+  "description": "Netflix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaliAbebe/Netflix-landing-page.git"
+  },
+  "keywords": [
+    "Netlix"
+  ],
+  "author": "Kalkidan Abebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaliAbebe/Netflix-landing-page/issues"
+  },
+  "homepage": "https://github.com/KaliAbebe/Netflix-landing-page#readme"
+}
